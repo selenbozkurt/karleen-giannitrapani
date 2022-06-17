@@ -79,8 +79,6 @@ email: ''
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Karleen Giannitrapani PhD MPH, is an Instructor in the Division of Primary Care and Population Health at Stanford University School of Medicine. As a Core Investigator at the Center for Innovation to Implementation (Ci2i) in the VA Palo Alto Health Care System she is the Principal Investigator of an effort to facilitate the role of employee occupational health during the Covid Pandemic. She is also a co-investigator and methods lead on multiple ongoing studies representing over 25 Million dollars of VA funding. Since 2018, she is the Associate Director of the VA Quality Improvement Resource Center (QuIRC) for Palliative care, one of three centers supporting Veterans Affairs Geriatrics and Extended Care nationally where she focuses on improving the processes that interdisciplinary teams can leverage to improve pain and symptom management among high-risk high-need patients. Her expertise includes organizational behavior, building teams, healthcare team functioning, implementation science, mixed methods-research, quality improvement, chronic pain, palliative care, and global health.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/kg_cv.pdf" "newtab" >}}resumé{{< /staticref >}}.
