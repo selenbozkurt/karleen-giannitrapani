@@ -36,13 +36,13 @@ experience:
         # * Modelling
         # * Deploying
 
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
+  - title: Investigator
+    company: Center for Innovation to Implementation -Ci2i
+    # company_url: ''
+    # company_logo: org-x
+    location: VA Palo Alto
     date_start: '2016-01-01'
-    date_end: '2020-12-31'
+    date_end: ''
     description: Taught electronic engineering and researched semiconductor physics.
 
 design:
