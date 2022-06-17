@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Karleen Giannitrapani, PhD, MPH
+title: Karleen Giannitrapani
 
 # Is this the primary user of the site?
 superuser: true
