@@ -3,7 +3,7 @@ widget: portfolio
 widget_id: portfolio
 headless: true
 weight: 25
-title: Research
+title: Interests
 subtitle: ""
 content:
   page_type: project
@@ -13,12 +13,12 @@ content:
       tag: "*"
     - name: Teams
       tag: Teams
-    - name: Deep Learning 2
-      tag: Deep Learning
-    - name: Deep Learning 3
-      tag: Deep Learning
-    - name: Other
-      tag: Demo
+    - name: Implementation Science
+      tag: Implementation
+    - name: Design
+      tag: Design
+    - name: Yoga
+      tag: Yoga
 design:
   columns: "2"
   view: 3
