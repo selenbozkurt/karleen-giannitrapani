@@ -11,11 +11,11 @@ content:
   filter_button:
     - name: All
       tag: "*"
-    - name: Deep Learning
+    - name: Teams
+      tag: Teams
+    - name: Deep Learning 2
       tag: Deep Learning
-    - name: Deep Learning
-      tag: Deep Learning
-    - name: Deep Learning
+    - name: Deep Learning 3
       tag: Deep Learning
     - name: Other
       tag: Demo
