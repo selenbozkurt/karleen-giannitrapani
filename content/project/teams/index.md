@@ -1,17 +1,16 @@
-
 ---
-title: Teams
+title: Example Project
 summary: An example of using the in-built project page.
 tags:
-  - Teams
+  - Deep Learning
 date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
 image:
-  caption: Teams
-  focal_point: Teams
+  caption: Photo by rawpixel on Unsplash
+  focal_point: Smart
 
 links:
   - icon: twitter
