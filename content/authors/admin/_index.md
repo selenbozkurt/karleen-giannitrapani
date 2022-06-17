@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Karleen Giannitrapani, PhD, MPH
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Instructor
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -18,22 +18,31 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - organizational behavior
+  - building teams
+  - healthcare team functioning
+  - implementation science
+  - mixed methods-research
+  - quality improvement
+  - chronic pain
+  - palliative care
+  - global health
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Health Policy and Managemen
+      institution: University of California Los Angeles
+      year: 2015
+    - course: MPH in Community Health Sciences 
+      institution: University of California Los Angeles
+      year: 2010
+    - course: MA in African Studies 
+      institution: University of California Los Angeles
+      year: 2010
+    - course: BA in Anthropology and Religion 
+      institution: Boston University
+      year: 2006
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
