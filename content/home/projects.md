@@ -3,7 +3,7 @@ widget: portfolio
 widget_id: portfolio
 headless: true
 weight: 25
-title: Projects
+title: Research
 subtitle: ""
 content:
   page_type: project
@@ -11,6 +11,10 @@ content:
   filter_button:
     - name: All
       tag: "*"
+    - name: Deep Learning
+      tag: Deep Learning
+    - name: Deep Learning
+      tag: Deep Learning
     - name: Deep Learning
       tag: Deep Learning
     - name: Other
