@@ -3,7 +3,7 @@ title: Karleen Giannitrapani
 role: Instructor
 avatar_filename: avatar.jpg
 bio: ""
-interests:
+Research Areas:
   - organizational behavior
   - building teams
   - healthcare team functioning
